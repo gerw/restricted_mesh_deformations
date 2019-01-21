@@ -1,0 +1,13 @@
+{
+	"directory": "paper/restricted_gradient/",
+	"export": 1,
+	"verbosity": 1,
+	"maxiter": 1000,
+	"sigma": 0.1,
+	"beta": 0.5,
+	"alpha0": 1.0,
+	"StoppingTolerance": 1e-7,
+	"E": 1.0,
+	"nu": 0.4,
+	"damping_factor": 0.2
+} 

@@ -1,0 +1,13 @@
+{
+	"directory": "paper/restricted_newton/",
+	"export": 1,
+	"verbosity": 1,
+	"maxiter": 100,
+	"sigma": 0.1,
+	"beta": 0.1,
+	"alpha0": 1e-2,
+	"StoppingTolerance": 1e-9,
+	"E": 1.0,
+	"nu": 0.4,
+	"damping_factor": 0.2
+}

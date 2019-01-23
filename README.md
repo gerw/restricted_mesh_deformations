@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/166810630.svg)](https://zenodo.org/badge/latestdoi/166810630)
 # First and Second Order Shape Optimization based on Restricted Mesh Deformations
 This is an implementation of the shape optimization algorithms
 from the paper "First and Second Order Shape Optimization based on Restricted Mesh Deformations"
@@ -27,6 +28,6 @@ If you find our approach useful, you can cite the paper and the source code as
   Title  = {First and Second Order Shape Optimization based on Restricted Mesh Deformations},
   Author = {Etling, Tommy and Herzog, Roland and Loayza, Estefanía and Wachsmuth, Gerd},
   Year   = {2018},
-  Doi    = {10.5281/zenodo.???}
+  Doi    = {10.5281/zenodo.2547481}
 }
 ````
